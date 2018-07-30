@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Athkar</string>
+    <string name="text">TextView</string>
+    <string name="TT1">إذا أصبح أحدكم فليقل: اللهم بك أصبحنا، وبك أمسينا، وبك نحيا، وبك نموت، وإليك النشور</string>
+    <string name="TT2">سُبْحَانَكَ سُبْحَانَكَ اللهم وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُك.</string>
+    <string name="TT3">الْحَمْدُ الْحَمْدُ للّهِ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ.</string>
+    <string name="TT4">im mohammad ameen</string>
+</resources>
